@@ -20,18 +20,18 @@
  </div>
  
 <div align="center"> 
-  <a href="manojbelbasay@gmail.com">
+  <a href="himal.fullel15@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/manojbelbasay/" target="_blank">
+  <a href="https://www.linkedin.com/in/himal-fullel-7823a7231/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://manojbelbase.com.np/" target="_blank">
+  <a href="https://himalfullel.com.np/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 <div align="center">
-  <img src="https://profile-counter.glitch.me/manojbelbase/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/himalf/count.svg?"  />
 </div>
  <hr/>
  
