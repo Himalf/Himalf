@@ -52,7 +52,6 @@
 <br/>
 <div align="center">
   <img src="https://github.com/himalf/himalf/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
 
 <h2 align="center">🚀 Connect with Me 🚀</h2>
 <br/>
