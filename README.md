@@ -48,10 +48,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=himalf&theme=radical" alt="Himal's GitHub Streak" />
 </div>
 
-<h2 align="center">🐍 Snake Animation 🐍</h2>
+
 <br/>
 <div align="center">
-  <img src="https://github.com/himalf/himalf/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  
 
 <h2 align="center">🚀 Connect with Me 🚀</h2>
 <br/>
