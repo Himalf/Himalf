@@ -8,14 +8,6 @@
 </p>
 <br/>
 
-<div align="left">
-    
-- 🌱 I’m currently learning **advanced Java**
-- 👨‍💻 All of my projects are available at [My Portfolio](https://himalfullel.com.np/)
-- 💬 Ask me about **ReactJS**
-- 📫 How to reach me **himal.fullel15@gmail.com**
-</div>
-
 <div align="center"> 
   <a href="mailto:himal.fullel15@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -39,7 +31,7 @@
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,firebase,mongodb,c,java,nextjs,mysql" /><br>
 </div>
 
-<h2 align="center">📊 GitHub Stats 📊</h2>
+
 <br/>
 <div align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=himalf&show_icons=true&theme=radical" alt="Himal's GitHub stats" /> -->
