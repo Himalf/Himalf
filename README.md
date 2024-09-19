@@ -43,7 +43,7 @@
 <br/>
 <div align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=himalf&show_icons=true&theme=radical" alt="Himal's GitHub stats" /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himalf&layout=compact&theme=radical" alt="Himal's Top Languages" />
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himalf&layout=compact&theme=radical" alt="Himal's Top Languages" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=himalf&theme=radical" alt="Himal's GitHub Streak" />
 </div>
 
