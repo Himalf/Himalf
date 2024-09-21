@@ -2,7 +2,8 @@
 <div align="center">
   <img align="center" alt="coding" width="400px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 </div>
-
+</br>
+</br>
 <div align="center"> 
   <a href="mailto:himal.fullel15@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
