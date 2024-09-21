@@ -1,12 +1,7 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Namaste+🙏;+I'm+Himal+Fullel!;" />
-</h1>
 
-<h3 align="center">A passionate Web developer from Nepal NP</h3>
-<p align="center">
-  <img align="center" alt="coding" width="400px" src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif" />
-</p>
-<br/>
+<div align="center">
+  <img align="center" alt="coding" width="400px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+</div>
 
 <div align="center"> 
   <a href="mailto:himal.fullel15@gmail.com">
@@ -20,7 +15,7 @@
   </a>
 </div>
 <div align="center">
-  <img src="https://profile-counter.glitch.me/himalf/count.svg?"  />
+<!--   <img src="https://profile-counter.glitch.me/himalf/count.svg?"  /> -->
 </div>
  <hr/>
  
@@ -60,13 +55,4 @@
 
 <hr/>
 
-<h2 align="center">✨ Fun Facts ✨</h2>
-<br/>
-<div align="center">
-  <p>⚡ Fun fact: **I can't swim.😁**</p>
-  <p>🌱 I’m currently learning **advanced Java**</p>
-</div>
 
-<div align="center">
-  <img align="center" alt="coding" width="400px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-</div>
