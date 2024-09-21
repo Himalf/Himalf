@@ -4,7 +4,7 @@
 </div>
 </br>
 </br>
-<div align="center"> 
+<!-- <div align="center"> 
   <a href="mailto:himal.fullel15@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -14,7 +14,7 @@
   <a href="https://himalfullel.com.np/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
-</div>
+</div> -->
 <div align="center">
 <!--   <img src="https://profile-counter.glitch.me/himalf/count.svg?"  /> -->
 </div>
