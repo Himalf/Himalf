@@ -3,20 +3,12 @@
   <img align="center" alt="coding" width="400px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 </div>
 </br>
-</br>
-<!-- <div align="center"> 
-  <a href="mailto:himal.fullel15@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/himal-fullel-7823a7231/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://himalfullel.com.np/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+
+
   </a>
 </div> -->
 <div align="center">
-<!--   <img src="https://profile-counter.glitch.me/himalf/count.svg?"  /> -->
+
 </div>
  <hr/>
  
@@ -29,8 +21,7 @@
 
 <br/>
 <div align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=himalf&show_icons=true&theme=radical" alt="Himal's GitHub stats" /> -->
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himalf&layout=compact&theme=radical" alt="Himal's Top Languages" /> -->
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=himalf&theme=radical" alt="Himal's GitHub Streak" />
 </div>
 
